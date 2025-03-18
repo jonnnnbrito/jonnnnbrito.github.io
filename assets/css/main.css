@@ -2195,12 +2195,12 @@ input, select, textarea {
 		}
 
 			.panel > *.color0 {
-				background-image: url("../../images/overlay.png"), linear-gradient(45deg, #717051 100%, #717051 100%, #717051 100%);
+				background-image: url("../../images/overlay.png"), linear-gradient(#717051 100%, #717051 100%, #717051 100%);
 				background-size: 128px 128px, auto;
 			}
 
 			.panel > *.color1 {
-				background-image: url("../../images/overlay.png"), linear-gradient(45deg, rgba(114, 97, 147, 0.25) 25%, rgba(227, 123, 124, 0.25) 50%, rgba(255, 228, 180, 0.25));
+				background-image: url("../../images/overlay.png"), linear-gradient(#7B4C4F 100%, #7B4C4F 100%, #7B4C4F 100%);
 				background-size: 128px 128px, auto;
 				background-color: #726193;
 			}
